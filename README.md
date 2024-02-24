@@ -1,0 +1,3 @@
+Scrivo un README a caso...
+
+![maxresdefault](https://github.com/emmetizeta/kraftwerk/assets/101027884/5be7d3c5-64db-4519-99a5-262816d28dc2)
